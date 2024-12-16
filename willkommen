@@ -7,7 +7,40 @@
 </head>
 <body>
     <h1>Willkommen auf meiner Website!</h1>
-    <p>Hier kannst du Informationen über mein Projekt finden. Der Launch des Online-Shops startet bald.
-    Joel ist ein Geringverdiener und führt regelmäßig Arbeitszeitbetrug durch.</p>
+    
+    <h2>Mein langer Text</h2>
+    
+    <p>
+        Dies ist ein langer Text, der auf der Website angezeigt wird. Du kannst so viele 
+        Absätze (abschnittsweise) hinzufügen, wie du möchtest. HTML verwendet den `<p>`-Tag 
+        für Absätze. Du kannst auch Zeilenumbrüche hinzufügen, um den Text zu strukturieren. 
+        Dies ist nur ein Beispiel. Du kannst hier so viel Text wie nötig einfügen. 
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada quam nec 
+        ipsum malesuada, ac tempor velit ullamcorper. Donec id risus augue. Sed fermentum, 
+        odio vel tempor varius, mi ligula varius lectus, a eleifend sapien odio eu ante.
+    </p>
+    
+    <p>
+        Dies ist der zweite Absatz des langen Textes. Du kannst jederzeit neue Absätze 
+        hinzufügen, indem du den `<p>`-Tag verwendest. Jeder neue `<p>`-Tag sorgt dafür, 
+        dass der Text in einem neuen Absatz erscheint, was den Text visuell unterteilt und 
+        das Lesen erleichtert.
+    </p>
+    
+    <p>
+        Du kannst auch Aufzählungen und nummerierte Listen erstellen, um bestimmte Punkte 
+        hervorzuheben. Zum Beispiel:
+    </p>
+
+    <ul>
+        <li>Erster Punkt in der Liste</li>
+        <li>Zweiter Punkt in der Liste</li>
+        <li>Dritter Punkt in der Liste</li>
+    </ul>
+
+    <p>
+        Das ist das Ende des Textes für jetzt. Du kannst natürlich weiter Text hinzufügen, 
+        Bilder, Links und viele andere Dinge, um die Seite weiter anzupassen.
+    </p>
 </body>
 </html>
